@@ -1,0 +1,150 @@
+
+section.one{
+
+    background-color: #E2EEF5
+}
+section.two{
+    background-color: #000000ef;
+}
+section.three{
+  background-color: #000000ef;
+}
+section.four{
+  background-color: #000000ef;
+}
+h1.hinaod{
+    
+    font-family: 'IBM Plex Serif', serif;
+    color:  #7ca6b1;
+    font-size: 40pt;
+      
+}
+h1.aboutme{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 40pt;
+    color: #ffffffaf;
+    text-align: center;
+
+    
+}
+p.ecei{
+  font-family: 'Corbel', serif;
+  color: #ffffffaf;
+  font-size: 14pt;
+}
+    
+
+h2.subtitle {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 27pt;
+    color: white;
+}
+p.qhdt{
+  font-family: 'Corbel', serif;
+  color: #ffffffaf;
+  font-size: 14pt;
+  text-align: right;
+  text-align: justify;
+}
+
+.sansserif{
+  font-family: 'Abel', sans-serif;
+  
+}
+
+a.navbar-brand{
+    font-family: 'Abel', sans-serif;
+    font-size: 30pt;
+}
+a.nav-link{
+    font-family: 'Abel', sans-serif;
+    font-size: 20pt;
+}
+.bg-custom-1 {
+    background-color: #1b7080c5;
+  }
+  .bg-custom-2 {
+    background-color: #0a262cc5;
+  }
+
+  .studentnaod{
+    font-family: 'IBM Plex Serif', serif;
+    color: #ffffffaf;
+  }
+  .techlead{
+    font-family: 'IBM Plex Serif', serif;
+    color: #ffffffaf;
+  }
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 20px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-github-alt{
+    background: rgb(0, 0, 0);
+    color: orange;
+  }
+  .fa-linkedin{
+    background: #2867B2;
+    color: white;
+  }
+  .fa-envelope{
+    background: #ad3a3a;
+    color: antiquewhite;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=Lato:300');
+  @import url('http://weloveiconfonts.com/api/?family=entypo');
+
+
+.connect {
+  padding: 30px 0;
+  font: 300 45px  'Abel', sans-serif;
+  text-align: center;
+  color: #ffffffaf;
+  background-color: #000000ef;
+
+}
+
+.footer{
+  background-color: #000000f3;
+
+}
+
+.jumbotron{
+  background-color: #a5ebfc8c;
+}
+.projects{
+  font: 300 65px  'Abel', sans-serif;
+  color: white;
+  text-align: center;
+
+}
+
+.cards{
+  font-family: 'IBM Plex Serif', serif;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+.project_blurb{
+  padding-top:20px;
+
+}
+.myProjects{
+  
+}

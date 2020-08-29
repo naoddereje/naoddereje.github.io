@@ -1,0 +1,29 @@
+A Little About Me...
+
+I am a third year Computer Enginnering Student currently studying at Queen's University in Kingston, ON.
+I was 1 out of 50 students chosen to be a part of their Electrical and Computer Innovation Stream (ECEi). 
+This has given me the oppurutnity to work closely with many other students in the same field as me and kick start my
+goal of becoming a more technology focused individual. Additionally, the innovation stream has given me a glance into
+business and entrepeneurship at the critically acclaimed Smith School of Business. 
+
+
+My Work as a *Software Engineer*
+
+Throughout my two years at Queen's I have found many gateways into the field of software development that have helped me to understand 
+the principles of programming beyond what is taught in the classroom. My work as a programmer for the Queen's VEX U Robotics Design Team exemplified this, 
+as I was tasked with programming the odomtery tracking system for the V5 brain of our 2020 robot, which competed in the 2020 VEX regional competition in Waterloo.
+This meant that we were able to qualify for world competition, despite it being put on hold due to COVID-19.
+
+My Work as a *Controls Engineer*
+
+
+
+My Work as a *Mentor*
+
+Throughout my time at Queen's, I have also assimiliated into a role as a mentor for the many new first year students that are coming to
+Queen's from Crescent School. Being that Crescent is my Alma Mater, I have assumed the role of a mentor through the alumni mentorship program.
+The program has helped many incoming first years from crescent feel at home with their fellow brothers, and I am proud to have made a contribution
+in making the new boys feel just a little bit more at home in their time at Queens.
+
+What's Next?
+As a software developer, I know my work is never done. I will continue to work on projects, continue to push the limits of my 
