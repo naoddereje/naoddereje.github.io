@@ -86,7 +86,7 @@ a.nav-link{
   }
   
   .fa:hover {
-      
+      color: rgba(255, 255, 255, 0.89);
   }
   
   .fa-facebook {
@@ -95,8 +95,8 @@ a.nav-link{
   }
 
   .fa-github-alt{
-    background: rgb(0, 0, 0);
-    color: orange;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
   }
   .fa-linkedin{
     background: #2867B2;
